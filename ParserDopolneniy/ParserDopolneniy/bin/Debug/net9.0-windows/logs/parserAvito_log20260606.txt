@@ -1,0 +1,124 @@
+2026-06-06 11:59:40.926 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 12:02:14.831 +03:00 [INF] Playwright is running
+2026-06-06 12:02:15.049 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:02:24.059 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 2
+2026-06-06 12:02:29.088 +03:00 [INF] Работа завершена
+2026-06-06 12:18:15.768 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 12:18:18.906 +03:00 [INF] Playwright is running
+2026-06-06 12:18:19.081 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:18:35.988 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:18:36.403 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:18:36.472 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 2
+2026-06-06 12:18:41.130 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:18:41.403 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:18:41.563 +03:00 [INF] Работа завершена
+2026-06-06 12:24:21.811 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 12:24:26.847 +03:00 [INF] Playwright is running
+2026-06-06 12:24:27.022 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:24:54.155 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:24:54.556 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:24:54.627 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 2
+2026-06-06 12:24:59.603 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:24:59.906 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:25:00.084 +03:00 [INF] Работа завершена
+2026-06-06 12:46:41.768 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 12:46:47.862 +03:00 [INF] Playwright is running
+2026-06-06 12:46:48.044 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:46:59.994 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:47:00.390 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:47:00.448 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 2
+2026-06-06 12:47:05.481 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:47:05.751 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:47:05.913 +03:00 [INF] Работа завершена
+2026-06-06 12:47:33.825 +03:00 [INF] Playwright is running
+2026-06-06 12:47:33.973 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:47:35.739 +03:00 [ERR] Error, 1
+2026-06-06 12:47:35.945 +03:00 [ERR] Ошибка Воркера
+2026-06-06 12:47:36.094 +03:00 [INF] Работа завершена
+2026-06-06 12:47:37.412 +03:00 [WRN] Ошибка при запуске парсера
+2026-06-06 12:49:47.953 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 12:49:52.876 +03:00 [INF] Playwright is running
+2026-06-06 12:49:53.053 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:50:02.615 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:50:02.995 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:50:03.059 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 2
+2026-06-06 12:50:07.900 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 12:50:08.177 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 12:50:08.377 +03:00 [INF] Работа завершена
+2026-06-06 12:56:08.755 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 12:56:12.659 +03:00 [INF] Playwright is running
+2026-06-06 12:56:12.841 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8/page{CurrentId}/ 1
+2026-06-06 12:56:21.130 +03:00 [ERR] Error, 1
+2026-06-06 12:56:21.201 +03:00 [ERR] Ошибка Воркера
+2026-06-06 12:56:21.405 +03:00 [INF] Работа завершена
+2026-06-06 12:56:23.105 +03:00 [WRN] Ошибка при запуске парсера
+2026-06-06 13:02:57.545 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 13:03:00.979 +03:00 [INF] Playwright is running
+2026-06-06 13:03:01.164 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:03:09.424 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:03:09.820 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:03:09.881 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:03:15.163 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:03:15.407 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:03:15.643 +03:00 [INF] Работа завершена
+2026-06-06 13:03:26.672 +03:00 [INF] Playwright is running
+2026-06-06 13:03:26.819 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:03:57.141 +03:00 [ERR] Error, 1
+2026-06-06 13:03:57.290 +03:00 [ERR] Ошибка Воркера
+2026-06-06 13:03:57.522 +03:00 [INF] Работа завершена
+2026-06-06 13:04:02.187 +03:00 [WRN] Ошибка при запуске парсера
+2026-06-06 13:11:52.175 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 13:11:55.195 +03:00 [INF] Playwright is running
+2026-06-06 13:11:55.377 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:12:03.520 +03:00 [ERR] Error, 1
+2026-06-06 13:12:03.585 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:12:09.609 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:12:09.989 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:12:10.160 +03:00 [INF] Работа завершена
+2026-06-06 13:12:21.434 +03:00 [INF] Playwright is running
+2026-06-06 13:12:21.586 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:12:50.264 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:12:50.526 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:12:50.587 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:12:51.643 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:12:51.869 +03:00 [INF] Работа завершена
+2026-06-06 13:17:01.492 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 13:17:03.988 +03:00 [INF] Playwright is running
+2026-06-06 13:17:04.187 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:17:34.515 +03:00 [ERR] Error, 1
+2026-06-06 13:17:34.587 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:17:48.418 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:17:48.803 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:17:48.961 +03:00 [INF] Работа завершена
+2026-06-06 13:18:14.742 +03:00 [INF] Playwright is running
+2026-06-06 13:18:14.879 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:18:45.197 +03:00 [ERR] Error, 1
+2026-06-06 13:18:45.298 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:18:51.195 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:18:51.572 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:18:51.752 +03:00 [INF] Работа завершена
+2026-06-06 13:23:16.584 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 13:23:22.732 +03:00 [INF] Playwright is running
+2026-06-06 13:23:22.913 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:23:26.555 +03:00 [ERR] Error, 1
+2026-06-06 13:23:26.620 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:23:28.613 +03:00 [ERR] Error, 2
+2026-06-06 13:23:28.774 +03:00 [INF] Работа завершена
+2026-06-06 13:23:41.243 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 13:23:46.237 +03:00 [INF] Playwright is running
+2026-06-06 13:23:46.419 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:23:56.560 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:23:56.938 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:23:57.020 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:24:03.692 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:24:03.899 +03:00 [WRN] Пусто, возможно обновилась вёрстка сайта
+2026-06-06 13:24:04.073 +03:00 [INF] Работа завершена
+2026-06-06 13:27:46.799 +03:00 [INF] Парсер успешно запущен!
+2026-06-06 13:27:48.925 +03:00 [INF] Playwright is running
+2026-06-06 13:27:49.124 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=1&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 1
+2026-06-06 13:28:12.268 +03:00 [WRN] Посол пропал без вести на проклятой земле
+2026-06-06 13:28:12.644 +03:00 [INF] AngleSharp нашел 497 потенциальных ссылок на квартиры.
+2026-06-06 13:28:12.648 +03:00 [INF] Успешно отобрано 258 уникальных заголовков квартир.
+2026-06-06 13:28:12.724 +03:00 [DBG] Переход на https://www.avito.ru/krasnodarskiy_kray/kvartiry/prodam-ASgBAgICAUSSA8YQ?p=2&context=H4sIAAAAAAAA_wEtANL_YToxOntzOjg6ImZyb21QYWdlIjtzOjE2OiJzZWFyY2hGb3JtV2lkZ2V0Ijt9F_yIfi0AAAA&f=ASgBAQICAUSSA8YQAUDgwt3NAiSA6Q~C6Q8 2
+2026-06-06 13:28:15.627 +03:00 [ERR] Error, 2
+2026-06-06 13:28:15.769 +03:00 [INF] Работа завершена

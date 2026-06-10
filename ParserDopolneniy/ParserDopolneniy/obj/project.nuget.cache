@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZKztrGrTk4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Кото-Комп\\source\\repos\\ParserDopolneniy\\ParserDopolneniy\\ParserDopolneniy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\anglesharp\\1.4.0\\anglesharp.1.4.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\microsoft.playwright\\1.60.0\\microsoft.playwright.1.60.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Кото-Комп\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
